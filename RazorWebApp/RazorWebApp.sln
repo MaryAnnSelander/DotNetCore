@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorWebApp", "RazorWebApp.csproj", "{77AC3C2E-9696-43FB-B452-1F8961596CCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorWebAsm", "..\BlazorWebAsm\BlazorWebAsm.csproj", "{36BE15BA-90C6-4810-A083-C8C481B5370B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77AC3C2E-9696-43FB-B452-1F8961596CCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77AC3C2E-9696-43FB-B452-1F8961596CCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77AC3C2E-9696-43FB-B452-1F8961596CCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77AC3C2E-9696-43FB-B452-1F8961596CCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36BE15BA-90C6-4810-A083-C8C481B5370B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36BE15BA-90C6-4810-A083-C8C481B5370B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36BE15BA-90C6-4810-A083-C8C481B5370B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36BE15BA-90C6-4810-A083-C8C481B5370B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1BD45D1-EE13-4EEA-803B-D59EA0830896}
+	EndGlobalSection
+EndGlobal
